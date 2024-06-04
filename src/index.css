@@ -1,0 +1,47 @@
+@import url("https://fonts.googleapis.com/css2?family=Aladin&family=Alef:wght@400;700&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  scrollbar-color: #1d3319 #c2c5cc;
+}
+
+body {
+  font-family: "Aladin", -apple-system, BlinkMacSystemFont, Segoe UI, Roboto,
+    Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+
+  color: black;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #1d3319;
+}
+
+::-webkit-scrollbar-track {
+  background-color: #efefef;
+}
+
+.slide-in {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  background: #0f0f0f;
+  transform-origin: bottom;
+}
+
+.slide-out {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  background: #0f0f0f;
+  transform-origin: top;
+}
