@@ -149,7 +149,7 @@ const ParkDetailsPage = () => {
                 <img
                   className="w-full h-full lg:w-[600px] lg:h-[350px]"
                   src={
-                    park!.images?.length > 1
+                    park?.images?.length || 0 > 1
                       ? park?.images[1].url
                       : park?.images[0].url
                   }
@@ -192,7 +192,7 @@ const ParkDetailsPage = () => {
                 <img
                   className="w-full h-full lg:w-[600px] lg:h-[350px]"
                   src={
-                    park!.images?.length > 2
+                    park?.images?.length || 0 > 2
                       ? park?.images[2].url
                       : park?.images[0].url
                   }
