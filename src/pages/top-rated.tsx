@@ -13,20 +13,20 @@ const TopRatedParks = () => {
     });
   };
   const images = [
-    "src/assets/greatsmoky.jpg",
-    "src/assets/grand-canyon.png",
-    "src/assets/zion.png",
-    "src/assets/yellowstone.jpg",
-    "src/assets/rocky.jpeg",
-    "src/assets/yosemite.jpg",
-    "src/assets/acadia.jpg",
-    "src/assets/grand-teton.jpg",
-    "src/assets/joshua.jpg",
-    "src/assets/olympic.jpg",
-    "src/assets/death-valley.jpg",
-    "src/assets/glacier.jpg",
-    "src/assets/bryce.jpg",
-    "src/assets/canyonlands.jpg",
+    "assets/greatsmoky.jpg",
+    "assets/grand-canyon.png",
+    "assets/zion.png",
+    "assets/yellowstone.jpg",
+    "assets/rocky.jpeg",
+    "assets/yosemite.jpg",
+    "assets/acadia.jpg",
+    "assets/grand-teton.jpg",
+    "assets/joshua.jpg",
+    "assets/olympic.jpg",
+    "assets/death-valley.jpg",
+    "assets/glacier.jpg",
+    "assets/bryce.jpg",
+    "assets/canyonlands.jpg",
   ];
   const topParks = [
     {

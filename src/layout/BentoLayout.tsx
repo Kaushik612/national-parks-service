@@ -16,13 +16,13 @@ const imagesVariant = {
 
 const BentoLayout = () => {
   const images = [
-    "src/assets/crater-lake.jpg",
-    "src/assets/death-valley.jpg",
-    "src/assets/dry-tortugas.jpg",
-    "src/assets/yellowstone.jpg",
-    "src/assets/acadia.png",
-    "src/assets/grand-canyon.png",
-    "src/assets/zion.png",
+    "assets/crater-lake.jpg",
+    "assets/death-valley.jpg",
+    "assets/dry-tortugas.jpg",
+    "assets/yellowstone.jpg",
+    "assets/acadia.png",
+    "assets/grand-canyon.png",
+    "assets/zion.png",
   ];
 
   const baseClasses =
