@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
 <a href="https://github.com/Kaushik612/national-parks-service">
-    <img src="assets/logo.svg" alt="Logo" width="80" height="80">
+    <img src="/public/logo.svg" alt="Logo" width="80" height="80">
   </a>
   <h3 align="center">National Park Helper</h3>
 
@@ -25,7 +25,7 @@
 
 ## About The Project
 
-A fun website learning more about U.S. National parks using the National parks open sourced API's.
+A fun website to learn more about U.S. National parks using the National parks open sourced API's.
 
 The idea behind building this website is to get a good understanding of how we can build fun project using an open source API.
 
