@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
 <a href="https://github.com/Kaushik612/national-parks-service">
-    <img src="assets/logo.svg" alt="Logo" width="80" height="80">
+    <img src="/assets/logo.svg" alt="Logo" width="80" height="80">
   </a>
   <h3 align="center">National Park Helper</h3>
 
