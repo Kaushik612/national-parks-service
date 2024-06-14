@@ -1,9 +1,9 @@
 <br/>
 <p align="center">
-<a href="https://github.com/Kaushik612/reviews.io">
-    <img src="images/banner-1.jpg" alt="Logo" width="80" height="80">
+<a href="https://github.com/Kaushik612/national-parks-service">
+    <img src="assets/logo.svg" alt="Logo" width="80" height="80">
   </a>
-  <h3 align="center">Reviews.io</h3>
+  <h3 align="center">National Park Helper</h3>
 
   <p align="center">
     A fun project built using the open source National parks service API
@@ -11,7 +11,7 @@
   </p>
 </p>
 
-![Forks](https://img.shields.io/github/forks/Kaushik612/reviews.io?style=social) ![Stargazers](https://img.shields.io/github/stars/Kaushik612/reviews.io?style=social) ![License](https://img.shields.io/github/license/Kaushik612/reviews.io)
+![Forks](https://img.shields.io/github/forks/Kaushik612/national-parks-service?style=social) ![Stargazers](https://img.shields.io/github/stars/Kaushik612/national-parks-service?style=social) ![License](https://img.shields.io/github/license/Kaushik612/national-parks-service)
 
 ## Table Of Contents
 
@@ -95,7 +95,7 @@ npm run dev
 
 ## License
 
-Distributed under the MIT License. See [LICENSE](https://github.com/Kaushik612/reviews.io/blob/main/LICENSE.md) for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/Kaushik612/national-parks-service/blob/main/LICENSE.md) for more information.
 
 ## Authors
 
