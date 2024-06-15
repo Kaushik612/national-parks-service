@@ -44,9 +44,8 @@ This application is built using TypeScript, React Router DOM and TailwindCSS.
 - Tailwind design and Framer-motion animations
 - Fully Responsive
 - Page loading state
-- How to write POST, DELETE, and GET routes in route handlers (app/api)
-- How to fetch data in server react components by directly accessing database (WITHOUT API! like Magic!)
-- How to handle relations between Server and Child components!
+- React Tanstack query for fetching data from API.
+- Beautiful dark and light mode components
 - How to reuse layouts
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
